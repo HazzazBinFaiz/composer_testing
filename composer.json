@@ -1,0 +1,12 @@
+{
+    "name": "hazzazbinfaiz/composer_testing",
+    "description": "Just a testing package to learn about composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hazzaz Bin Faiz",
+            "email": "hazzazbinfaiz@gmail.com"
+        }
+    ],
+    "require": {}
+}
